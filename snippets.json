@@ -1,1 +1,17 @@
-
+[
+  {
+    "title": "Technical summary",
+    "tags": ["summary", "technical", "resume"],
+    "text": "Detail-driven technical troubleshooter with 10+ years diagnosing and repairing complex industrial, automotive, security, and broadband systems. I specialize in turning unclear problems into clear, step-by-step solutions and documenting fixes so others can repeat them."
+  },
+  {
+    "title": "Email triage project blurb",
+    "tags": ["project", "triage", "github"],
+    "text": "Built a Python-based email triage tool that reads plain-text items, classifies them into categories such as URGENT, MONEY, JOB_LEAD, and PERSONAL, and outputs both a JSON report and a human-readable summary to speed up support workflows."
+  },
+  {
+    "title": "Professional tone follow-up",
+    "tags": ["email", "follow-up"],
+    "text": "Hi [Name],\n\nI wanted to follow up on my application and confirm that you received my materials. I remain very interested in this role and would be glad to answer any questions or provide additional information.\n\nThank you for your time and consideration,\nJerry"
+  }
+]
