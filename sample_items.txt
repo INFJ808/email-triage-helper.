@@ -1,1 +1,14 @@
+Subject: Rent past due
+Hey Jerry, this is a reminder that your rent payment is past due and must be received by Friday to avoid a late fee.
 
+Subject: New remote job opening
+We have a fully remote IT support position available. If you're interested, please apply through our careers page.
+
+Subject: Family dinner
+Mom is planning a family dinner this weekend. Let us know if you can make it.
+
+Subject: Congratulations, you are a winner!
+Click here to claim your lottery winnings. This offer will expire in 24 hours.
+
+Subject: Need an urgent update
+I need an update ASAP on the status of the customer's ticket. Please respond immediately.
